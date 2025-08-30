@@ -1,14 +1,5 @@
 ## 💫 Personal Info:
--🔥 Hello World! I'm Sree Hari S
--💻 Passionate Full Stack Developer | 🚀 Tech Innovator | 🌱 Lifelong Learner
--💡 I love transforming ideas into impactful digital solutions
--⚙️ Specializing in HTML, CSS, JavaScript, React, Vue.js, Django, and AI Integrations
--📚 Leveling up my skills in Blockchain, WebRTC, and Cloud Computing (AWS)
--💬 Always ready to talk about AI projects, web apps, and creative coding solutions
--🌐 Building smart, scalable, and user-friendly applications for real-world problems
--🎯 Forever a student of technology, innovation, and performance optimization
--🤝 Let’s collaborate and create something awesome together!
--📌 Current Projects:<br><br>🚜 FarmPulse AI – AI-powered platform for plant & animal health diagnosis.<br><br>🚗 Automated Tollgate System – RFID + License Plate Recognition for contactless toll collection.<br><br>🖱 Gesture Control Virtual Mouse – Hand gesture-based mouse control using computer vision.<br>
+🔥 Hello World! I'm Sree Hari S<br><br>💻 Passionate Full Stack Developer | 🚀 Tech Innovator | 🌱 Lifelong Learner<br><br>💡 I love transforming ideas into impactful digital solutions<br><br>⚙️ Specializing in HTML, CSS, JavaScript, React, Vue.js, Django, and AI Integrations<br><br>📚 Leveling up my skills in Blockchain, WebRTC, and Cloud Computing (AWS)<br><br>💬 Always ready to talk about AI projects, web apps, and creative coding solutions<br><br>🌐 Building smart, scalable, and user-friendly applications for real-world problems<br><br>🎯 Forever a student of technology, innovation, and performance optimization<br><br>🤝 Let’s collaborate and create something awesome together!<br><br>📌 Current Projects:<br><br>🚜 FarmPulse AI – AI-powered platform for plant & animal health diagnosis.<br><br>🚗 Automated Tollgate System – RFID + License Plate Recognition for contactless toll collection.<br><br>🖱 Gesture Control Virtual Mouse – Hand gesture-based mouse control using computer vision.<br>
 
 ## 🧠 Interests
 - 🤖 Applied AI in Real-world Problems (Healthcare, Agriculture, Education)
