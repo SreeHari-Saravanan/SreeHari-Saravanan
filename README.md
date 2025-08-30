@@ -1,6 +1,21 @@
 # 💫 Personal Info:
 🔥 Hello World! I'm Sree Hari S<br><br>💻 Passionate Full Stack Developer | 🚀 Tech Innovator | 🌱 Lifelong Learner<br><br>💡 I love transforming ideas into impactful digital solutions<br><br>⚙️ Specializing in HTML, CSS, JavaScript, React, Vue.js, Django, and AI Integrations<br><br>📚 Leveling up my skills in Blockchain, WebRTC, and Cloud Computing (AWS)<br><br>💬 Always ready to talk about AI projects, web apps, and creative coding solutions<br><br>🌐 Building smart, scalable, and user-friendly applications for real-world problems<br><br>🎯 Forever a student of technology, innovation, and performance optimization<br><br>🤝 Let’s collaborate and create something awesome together!<br><br>📌 Current Projects:<br><br>🚜 FarmPulse AI – AI-powered platform for plant & animal health diagnosis.<br><br>🚗 Automated Tollgate System – RFID + License Plate Recognition for contactless toll collection.<br><br>🖱 Gesture Control Virtual Mouse – Hand gesture-based mouse control using computer vision.<br>
 
+## 🧠 Interests
+- 🤖 Applied AI in Real-world Problems (Healthcare, Agriculture, Education)
+- 📊 Data-Driven Insights & Predictive Modeling (Regression, Classification)
+- 🧬 Multimodal Generative AI (Text-to-Video, Text-to-Image using GANs & Transformers)
+- 🌐 Full-Stack Web Development (Django/Flask/FastAPI + React/Bootstrap)
+- 🚀 Building Scalable Backend Systems and APIs for AI Applications
+
+
+## 🛠 Tech Stack
+- Languages: Python, Java
+- Frameworks: Flask, Django, FastAPI, React, Bootstrap
+- Tools: Git, MongoDB, SQL, Firebase
+- AI/ML: scikit-learn, Hugging Face, PyTorch, Tensorflow
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100078875445261) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___hari475___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/sreehari26) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SreeHari475?t=uUilxyJsNeRqryCv_tZAUw&s=08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreehari16119@gmail.com) 
