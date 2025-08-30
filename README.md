@@ -1,4 +1,4 @@
-# 💫 Personal Info:
+## 💫 Personal Info:
 -🔥 Hello World! I'm Sree Hari S
 -💻 Passionate Full Stack Developer | 🚀 Tech Innovator | 🌱 Lifelong Learner
 -💡 I love transforming ideas into impactful digital solutions
